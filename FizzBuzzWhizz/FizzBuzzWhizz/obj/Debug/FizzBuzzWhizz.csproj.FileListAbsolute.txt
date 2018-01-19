@@ -1,0 +1,6 @@
+C:\AsosProjects\TDDTraining\FizzBuzzWhizz\FizzBuzzWhizz\bin\Debug\FizzBuzzWhizz.dll
+C:\AsosProjects\TDDTraining\FizzBuzzWhizz\FizzBuzzWhizz\bin\Debug\FizzBuzzWhizz.pdb
+C:\AsosProjects\TDDTraining\FizzBuzzWhizz\FizzBuzzWhizz\obj\Debug\FizzBuzzWhizz.csprojResolveAssemblyReference.cache
+C:\AsosProjects\TDDTraining\FizzBuzzWhizz\FizzBuzzWhizz\obj\Debug\FizzBuzzWhizz.csproj.CoreCompileInputs.cache
+C:\AsosProjects\TDDTraining\FizzBuzzWhizz\FizzBuzzWhizz\obj\Debug\FizzBuzzWhizz.dll
+C:\AsosProjects\TDDTraining\FizzBuzzWhizz\FizzBuzzWhizz\obj\Debug\FizzBuzzWhizz.pdb
